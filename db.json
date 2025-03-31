@@ -27,22 +27,22 @@
       "albumId": 1,
       "id": 3,
       "title": "officia porro iure quia iusto qui ipsa ut modi",
-      "url": "https://placehold.co/600x400",
-      "thumbnailUrl": "https://placehold.co/600x400"
+      "url": "https://fakeimg.pl/600x400/729bc2/8f8f8f",
+      "thumbnailUrl": "https://fakeimg.pl/600x400/729bc2/8f8f8f"
     },
     {
       "albumId": 1,
       "id": 4,
       "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-      "url": "https://placehold.co/600x400",
-      "thumbnailUrl": "https://placehold.co/600x400"
+      "url": "https://fakeimg.pl/600x400/c2c272/8f8f8f",
+      "thumbnailUrl": "https://fakeimg.pl/600x400/c2c272/8f8f8f"
     },
     {
         "albumId": 2,
         "id": 4,
         "title": "second album",
-        "url": "https://placehold.co/600x400",
-        "thumbnailUrl": "https://placehold.co/600x400"
+        "url": "https://fakeimg.pl/600x400/72c2bd/8f8f8f",
+        "thumbnailUrl": "https://fakeimg.pl/600x400/72c2bd/8f8f8f"
       }
   ],
   "profile": {
